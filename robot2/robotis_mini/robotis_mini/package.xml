@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>robotis_mini</name>
+  <version>0.0.7</version>
+  <description>
+    ROS metapackage for controlling the robotis mini
+  </description>
+  <maintainer email="cpt-yoshi@gmail.com">Captain Yoshi</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+
+</package>
